@@ -7,7 +7,7 @@ Here you’ll find a curated collection of the courses, trainings, and events I�
 
 ## 📚 About Me
 
-I’m a Computer Science student at Mackenzie Presbyterian University and a Cloud intern at Huawei, contributing to the Itaú migration project. I’m passionate about learning — from algorithms and system architecture to UI design and soft skills.
+I'm a Computer Science student at Mackenzie Presbyterian University, passionate about learning — from algorithms and system architecture to UI design and soft skills.
 
 ---
 
